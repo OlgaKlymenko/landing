@@ -1,0 +1,33 @@
+body {
+margin:0;
+padding:0;
+text-align:center;
+}
+
+.red{color:red}
+
+.center{
+	margin:0 auto;
+}
+
+div,section,footer {width:100%;}
+
+.header {
+height:150px;
+background-color: yellow;
+}
+
+.mid {
+height: 300px;
+background-color: blue;
+}
+
+.footer {
+height: 150px;
+background-color: green;
+} 	 
+
+h1, h2{
+margin:0;
+padding:0;
+}
